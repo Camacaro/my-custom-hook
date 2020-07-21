@@ -1,3 +1,8 @@
-# Notas
+# useFetch
 
-Este repositorio contiene varios customHooks para ayudar
+Ejemplo de uso:
+```JS
+const url = 'endpoint de una api
+const { data, loading, error } = useCounter(url)
+
+```
